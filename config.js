@@ -1,8 +1,8 @@
-const nameGirl = 'Chị';
+const nameGirl = 'Nu Tu Be';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 20-10';
-const titleCard = 'Tặng chị Ánh khóa trên';
-const contentCard = 'Chúc chị có 1 ngày 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với chị trong hôm nay và cả những ngày sau.Quà muộn xíu nha hihii';
+const eventName = 'Chúc Mừng 20-10 vui vẻ';
+const titleCard = 'Tặng Nu Tu Be';
+const contentCard = 'Chúc Nu Tu Be có 1 ngày 20/10 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với Nu Tu Be trong hôm nay và cả những ngày sau.Quà muộn xíu nha hihii';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
