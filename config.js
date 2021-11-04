@@ -1,8 +1,8 @@
-const nameGirl = 'Bé';
+const nameGirl = 'Thùy Linh';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Anh nhớ bé';
-const titleCard = 'Gửi lời xin lỗi bé Quỳnh Anh';
-const contentCard = 'Anh biết anh sai rồi, thời gian qua anh nhớ bé nhiều lắm, mong bé tha lỗi cho anh, cho anh một cơ hội nữa được không';
+const eventName = 'Tặng bé yêu của anh';
+const titleCard = 'cảm ơn em vì đã chấp nhận yêu anh';
+const contentCard = 'Em đã cho anh hiểu được cảm giác được quan tâm, được yêu thương là như thế nào, mong rằng sau này ở đâu có em sẽ có anh, bớt cứng đầu nghe lời tuii hơn nha cô bé, YÊU EM';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
