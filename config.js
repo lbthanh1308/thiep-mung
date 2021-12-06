@@ -1,8 +1,8 @@
-const nameGirl = 'Triệu Như';
+const nameGirl = 'Thảo Ngân( cô bé mới quen:3)';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Tặng bà';
+const eventName = 'Tặng em';
 const titleCard = 'Qùa của dân IT hơi sến';
-const contentCard = ' Xin lỗi vì hôm qua làm bà buồn, đây có thể là món quà rất nhỏ nhưng hy vọng bà sẽ vuii hơn, mong rằng sẽ được đi cùng bà lâu dài, hông giận tuii nữa nhá, thương bà nhìu';
+const contentCard = 'Đây là thứ anh muốn cho em xem nè, anh ko biết cái này có làm em vuii xíu nào không, dù rất nhỏ nhưng hy vong em sẽ thích, còn rất nhiều thứ anh sẽ cho em xem sau:3';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
