@@ -1,8 +1,8 @@
-const nameGirl = 'Thảo Ngân( cô bé mới quen:3)';
+const nameGirl = 'Hà Vy';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Tặng em';
-const titleCard = 'Qùa của dân IT hơi sến';
-const contentCard = 'Đây là thứ anh muốn cho em xem nè, anh ko biết cái này có làm em vuii xíu nào không, dù rất nhỏ nhưng hy vong em sẽ thích, còn rất nhiều thứ anh sẽ cho em xem sau:3';
+const eventName = 'Gửi tặng bé';
+const titleCard = 'Món quà bất ngờ thứ 2';
+const contentCard = 'Đây là thứ anh muốn cho em xem nè, chỉ mới quen nhau 1 thời gian ngắn thôi, nhưng có lẻ anh yêu bé rồi, có thể quá nhanh để bé đón nhận nhưng thời gian của anh sẽ chờ đợi câu trả lời của bé, sắp sang năm mới anh chúc bé luôn vui vẻ, hạnh phúc bên gia đình và người bé yêu, hy vọng sẽ mang lại hạnh phúc cho bé trong thời gian sớm nhất. YÊU BÉ nhiều';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
